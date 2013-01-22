@@ -1,5 +1,7 @@
 #!/usr/local/bin/python3
 
+# Author: Michael E. Cotterell <mepcotterell@gmail.com>
+
 # 1 - Multiples of 3 and 5
 # http://projecteuler.net/problem=1
 #
